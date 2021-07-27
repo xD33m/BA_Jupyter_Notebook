@@ -3,3 +3,6 @@
 indexdir
 models
 **/logs
+wandb
+runs
+outputs
